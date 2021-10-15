@@ -1,4 +1,4 @@
-# corporate_admin
+# corporate-admin
 
 ## Project setup
 ```
